@@ -1,10 +1,11 @@
-import React from 'react'
+import React from 'react';
+
 
 export const Header = () => {
     return (
-        <div>
-            HI 
-        </div>
+        <>
+            <p className='header'>My Expeanse Tracker <br/>Project - 01, PIAIC_BootCamp</p>
+        </>
     )
 }
 
